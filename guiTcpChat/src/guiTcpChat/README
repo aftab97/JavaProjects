@@ -1,0 +1,6 @@
+Instructions to run project:
+
+1. Run the ServerTest Class first
+2. Run the ClientTest Class next
+3. A message should appear saying connection has been established
+4. Type in the bar above the chat to communicate either from the client or server
