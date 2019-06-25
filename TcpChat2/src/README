@@ -1,0 +1,11 @@
+Instructions to run project:
+
+1. Run the ServerProgram class first 
+2. When asked for IP, type in: localhost
+3. For port, type in a 4 digit number, make sure to use the same number when running the Client
+4. Run the ClientProgram class, type in a name for the client
+5. For IP type: localhost
+6. For port number use the same one used before
+7. Type in the console to communicate either from the client or server
+8. To prove multithreadding run the client program again and enter the previous settings witha  different name
+9. The server should now show multiple connections
